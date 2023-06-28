@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#Hi! Welcome to my Bash Script Portfolio! Answer riddles to unlock information about me :)
+
 # declaring contact info variables
 name='Halee Tisler'
 occupation='Software Developer'
